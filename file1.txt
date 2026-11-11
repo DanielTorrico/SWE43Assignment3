@@ -5,4 +5,5 @@ Favorite Movie: Interstella
 Favorite Restaurant: Olive Garden
 Favorite Hobby: Playing Basketball
 Favorite Color: Blue
-I would like to learn Java.
+I would like to learn Java and how to use git in a professional setting.
+
