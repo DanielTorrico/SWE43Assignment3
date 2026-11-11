@@ -4,3 +4,4 @@ Graduation Year: 2029
 Favorite Movie: Interstella
 Favorite Restaurant: Olive Garden
 Favorite Hobby: Playing Basketball
+Favorite Color: Blue
