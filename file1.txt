@@ -5,3 +5,4 @@ Favorite Movie: Interstella
 Favorite Restaurant: Olive Garden
 Favorite Hobby: Playing Basketball
 Favorite Color: Blue
+I would like to learn how to use git in a professional setting.
